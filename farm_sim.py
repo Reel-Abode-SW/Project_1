@@ -1,7 +1,10 @@
 from graphics import *
 
 def main():
+       
+    win = GraphWin("Farm", 1000, 600);
     
-    print("hi");
-
+    win.getMouse();
+    win.close();
+    
 main()
