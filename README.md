@@ -1,6 +1,8 @@
 # Project_1
 
-github is kinda weird
+List of colors that can be used in the graphics library: https://www.rose-hulman.edu/Users/faculty/young/CS-Classes/archive/csse120-old/csse120-old-terms/201410/Resources/Graphics/ZelleGraphicsColors/ColorSwatches.jpg
+
+Or color_rgb(num, num, num)
 
 this should be plenty to get something started
 
