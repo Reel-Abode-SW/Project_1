@@ -38,7 +38,7 @@ def main():
         plot_type = Text(plot[i].getCenter(), "p");
         plot[i].draw(win);
         plot_type.draw(win);
-        i+=0;
+        i+=1;
     
     end = False;
     while end == False:
