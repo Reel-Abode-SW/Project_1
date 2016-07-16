@@ -39,7 +39,7 @@ def main():
         plot_type = Text(plot[i].getCenter(), "p");
         plot[i].draw(win);
         plot_type.draw(win);
-        plot[i].setFill("white");
+        plot[i].setFill("chocolate4");
         i+=1;
     
     end = False;
@@ -54,7 +54,7 @@ def main():
         
         #Change box color to show that the crop has been watered
         if crop_watered == False:
-            plot[plot_click].setFill("white");
+            plot[plot_click].setFill("chocolate4");
         if crop_watered == True:
             plot[plot_click].setFill("sky blue");
         
