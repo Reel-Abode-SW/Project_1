@@ -4,8 +4,6 @@ List of colors that can be used in the graphics library: https://www.rose-hulman
 
 Or color_rgb(num, num, num)
 
-this should be plenty to get something started
-
 simple farming simulator
 text based. squares to represent crops
 letter in center of square for type of crop
